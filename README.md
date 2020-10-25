@@ -1,8 +1,7 @@
 ## App-Tarefas TO-DO
 
   - ToDo é uma plataforma para criação de tarefas personalizadas para uso diário.Com opções para notificações e sincronização via QR Code com a Web e Mobile.
-Desenvolvido no curso da Udemy – Projeto Completo: XD, NodeJS, MongoDB, React Native e React, instruído pelo professor Rodrigo Gonçalves Santana
- 🚀
+    Desenvolvido no curso da Udemy – Projeto Completo: XD, NodeJS, MongoDB, React Native e React, instruído pelo professor Rodrigo Gonçalves Santana 🚀
 
 ## Tecnologias utilizadas
 
@@ -19,9 +18,9 @@ Desenvolvido no curso da Udemy – Projeto Completo: XD, NodeJS, MongoDB, React 
 
 ## Projeto WEB
 
-![AppTarefas](https://github.com/GuilhermeErthal/App-Tarefas/master/mobile/assets/ToDoTarefas.jpg)
+![AppTarefas](https://github.com/GuilhermeErthal/App-Tarefas/blob/master/mobile/assets/ToDoTarefas.JPG)
 
 ## Projeto Mobile
 
-![AppTarefas](https://github.com/GuilhermeErthal/App-Tarefas/master/mobile/assets/AppTarefas2.jpg)
+![AppTarefas](https://github.com/GuilhermeErthal/App-Tarefas/blob/master/mobile/assets/AppTarefas2.JPG)
 
